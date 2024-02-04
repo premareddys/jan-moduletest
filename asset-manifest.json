@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jan-moduletest/static/css/main.9ced469c.css",
+    "main.js": "/jan-moduletest/static/js/main.7fa9752a.js",
+    "static/media/logo.png": "/jan-moduletest/static/media/logo.aeeb9838e5a28c496da9.png",
+    "index.html": "/jan-moduletest/index.html",
+    "main.9ced469c.css.map": "/jan-moduletest/static/css/main.9ced469c.css.map",
+    "main.7fa9752a.js.map": "/jan-moduletest/static/js/main.7fa9752a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ced469c.css",
+    "static/js/main.7fa9752a.js"
+  ]
+}
